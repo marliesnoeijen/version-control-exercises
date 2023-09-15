@@ -1,4 +1,3 @@
 todo 
 
-A) Write report.
 B) Submit report.
